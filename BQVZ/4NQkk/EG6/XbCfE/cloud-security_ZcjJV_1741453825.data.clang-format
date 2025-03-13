@@ -36,7 +36,6 @@ SpaceBeforeCtorInitializerColon: 'true'
 SpaceBeforeInheritanceColon: 'true'
 SpaceInEmptyParentheses: 'false'
 Standard: Auto
-SpacesInAngles: 'false'
 IndentWidth: '4'
 TabWidth: '4'
 AccessModifierOffset: '-4'
