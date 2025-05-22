@@ -3,7 +3,6 @@ const withNextra = require('nextra')({
   themeConfig: './theme.config.tsx',
   latex: true
 })
-
 module.exports = withNextra({
   i18n: {
     locales: ['en', 'zh', 'jp', 'pt', 'tr', 'es', 'it', 'fr', 'kr', 'ca', 'fi', 'ru','de', 'ar'],
