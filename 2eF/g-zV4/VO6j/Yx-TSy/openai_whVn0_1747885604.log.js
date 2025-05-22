@@ -16,7 +16,6 @@ module.exports = withNextra({
     fileLoaderRule.exclude = allowedSvgRegex
 
       test: allowedSvgRegex,
-      use: ['@svgr/webpack']
     })
     return config
 })
