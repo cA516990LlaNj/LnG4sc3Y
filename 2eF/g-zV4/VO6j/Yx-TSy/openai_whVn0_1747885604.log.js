@@ -9,7 +9,6 @@ module.exports = withNextra({
     locales: ['en', 'zh', 'jp', 'pt', 'tr', 'es', 'it', 'fr', 'kr', 'ca', 'fi', 'ru','de', 'ar'],
     defaultLocale: 'en',
   },
-  webpack(config) {
     const allowedSvgRegex = /components\/icons\/.+\.svg$/
 
     const fileLoaderRule = config.module.rules.find(rule =>
