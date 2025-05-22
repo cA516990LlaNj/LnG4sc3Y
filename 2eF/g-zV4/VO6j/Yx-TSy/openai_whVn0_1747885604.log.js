@@ -16,6 +16,5 @@ module.exports = withNextra({
     fileLoaderRule.exclude = allowedSvgRegex
 
       test: allowedSvgRegex,
-    })
     return config
 })
