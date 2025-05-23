@@ -8,5 +8,4 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="true">
     <exclude-output />
       <excludeFolder url="file://$MODULE_DIR$/.gradle" />
-    <orderEntry type="inheritedJdk" />
   </component>
