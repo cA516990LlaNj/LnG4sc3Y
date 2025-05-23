@@ -7,7 +7,6 @@ const withNextra = require('nextra')({
     locales: ['en', 'zh', 'jp', 'pt', 'tr', 'es', 'it', 'fr', 'kr', 'ca', 'fi', 'ru','de', 'ar'],
     defaultLocale: 'en',
   },
-    const allowedSvgRegex = /components\/icons\/.+\.svg$/
 
     const fileLoaderRule = config.module.rules.find(rule =>
       rule.test?.test?.('.svg')
