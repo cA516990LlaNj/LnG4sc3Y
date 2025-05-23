@@ -11,6 +11,5 @@ const withNextra = require('nextra')({
     const fileLoaderRule = config.module.rules.find(rule =>
       rule.test?.test?.('.svg')
 
-      test: allowedSvgRegex,
     return config
 })
