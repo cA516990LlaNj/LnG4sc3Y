@@ -58,7 +58,6 @@ opennhp@gmail.com.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
 
 the consequences for any action they deem in violation of this Code of Conduct:
 
